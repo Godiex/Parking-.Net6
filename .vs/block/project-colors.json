@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c5c8ade-187f-4afb-acc5-10799007d0bd": {
+      "ProjectGuid": "9c5c8ade-187f-4afb-acc5-10799007d0bd",
+      "DisplayName": "Api",
+      "ColorIndex": 0
+    },
+    "a2b94721-3cd7-467a-a8d2-ac8317073be5": {
+      "ProjectGuid": "a2b94721-3cd7-467a-a8d2-ac8317073be5",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1a068c38-a9c0-4e2d-9c72-7f8ba1c537fa": {
+      "ProjectGuid": "1a068c38-a9c0-4e2d-9c72-7f8ba1c537fa",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "5a3556db-5516-4327-a3fc-781e0625d832": {
+      "ProjectGuid": "5a3556db-5516-4327-a3fc-781e0625d832",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "5ea6c39c-7638-4566-a769-ab9268de7d51": {
+      "ProjectGuid": "5ea6c39c-7638-4566-a769-ab9268de7d51",
+      "DisplayName": "Api.Tests",
+      "ColorIndex": 4
+    },
+    "7b6dd752-a275-430f-b34b-f492ed9acf76": {
+      "ProjectGuid": "7b6dd752-a275-430f-b34b-f492ed9acf76",
+      "DisplayName": "Domain.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,10 @@
+2021-09-30 17:35:29.159 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Person text/json;+charset=utf-8 110
+2021-09-30 17:35:29.190 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:35:29.195 -05:00 [INF] Executing endpoint 'Api.Controllers.PersonController.Post (Api)'
+2021-09-30 17:35:29.206 -05:00 [INF] Route matched with {action = "Post", controller = "Person"}. Executing controller action with signature System.Threading.Tasks.Task Post(Application.Person.Commands.PersonCreateCommand) on controller Api.Controllers.PersonController (Api).
+2021-09-30 17:35:29.209 -05:00 [INF] creating controller PersonController
+2021-09-30 17:35:29.250 -05:00 [INF] Entity Framework Core 5.0.10 initialized 'PersistenceContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Testing 
+2021-09-30 17:35:29.258 -05:00 [INF] Saved 1 entities to in-memory store.
+2021-09-30 17:35:29.263 -05:00 [INF] Executed action Api.Controllers.PersonController.Post (Api) in 53.5903ms
+2021-09-30 17:35:29.263 -05:00 [INF] Executed endpoint 'Api.Controllers.PersonController.Post (Api)'
+2021-09-30 17:35:29.267 -05:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Person text/json;+charset=utf-8 110 - 200 - - 109.6718ms

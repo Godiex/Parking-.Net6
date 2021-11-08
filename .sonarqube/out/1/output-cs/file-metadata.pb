@@ -1,0 +1,10 @@
+m
+dC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\CellVehicle\CellVehicleDataBuilder.csutf-8m
+dC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\CellVehicle\CellVehicleServiceTest.csutf-8s
+jC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\InvoiceParking\InvoiceParkingDataBuilder.csutf-8l
+cC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\InvoiceParking\InvoiceParkingTest.csutf-8c
+ZC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\Person\PersonDataBuilder.csutf-8c
+ZC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\Person\PersonServiceTest.csutf-8ƒ
+xC:\Users\diego.villa\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8‰
+~C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8w
+lC:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\obj\Debug\net6.0\Domain.Tests.AssemblyInfo.csutf-8

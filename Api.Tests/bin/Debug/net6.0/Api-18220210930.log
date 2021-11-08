@@ -1,0 +1,9 @@
+2021-09-30 17:25:17.231 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Person text/plain;+charset=utf-8 110
+2021-09-30 17:25:17.263 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:25:17.269 -05:00 [INF] Executing endpoint 'Api.Controllers.PersonController.Post (Api)'
+2021-09-30 17:25:17.280 -05:00 [INF] Route matched with {action = "Post", controller = "Person"}. Executing controller action with signature System.Threading.Tasks.Task Post(Application.Person.Commands.PersonCreateCommand) on controller Api.Controllers.PersonController (Api).
+2021-09-30 17:25:17.284 -05:00 [INF] creating controller PersonController
+2021-09-30 17:25:17.305 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-09-30 17:25:17.315 -05:00 [INF] Executed action Api.Controllers.PersonController.Post (Api) in 30.6417ms
+2021-09-30 17:25:17.315 -05:00 [INF] Executed endpoint 'Api.Controllers.PersonController.Post (Api)'
+2021-09-30 17:25:17.316 -05:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Person text/plain;+charset=utf-8 110 - 415 - application/problem+json;+charset=utf-8 87.6776ms

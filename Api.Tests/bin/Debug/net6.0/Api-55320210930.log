@@ -1,0 +1,5 @@
+2021-09-30 17:24:33.603 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Person/sync text/plain;+charset=utf-8 110
+2021-09-30 17:24:33.636 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:24:33.641 -05:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-09-30 17:24:33.641 -05:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-09-30 17:24:33.645 -05:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Person/sync text/plain;+charset=utf-8 110 - 405 - - 43.6850ms

@@ -1,0 +1,9 @@
+2021-09-30 17:35:29.327 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Person/foobar - -
+2021-09-30 17:35:29.340 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:35:29.340 -05:00 [INF] Executing endpoint 'Api.Controllers.PersonController.Get (Api)'
+2021-09-30 17:35:29.342 -05:00 [INF] Route matched with {action = "Get", controller = "Person"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller Api.Controllers.PersonController (Api).
+2021-09-30 17:35:29.343 -05:00 [INF] creating controller PersonController
+2021-09-30 17:35:29.347 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-30 17:35:29.351 -05:00 [INF] Executed action Api.Controllers.PersonController.Get (Api) in 8.3668ms
+2021-09-30 17:35:29.351 -05:00 [INF] Executed endpoint 'Api.Controllers.PersonController.Get (Api)'
+2021-09-30 17:35:29.351 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Person/foobar - - - 400 - application/problem+json;+charset=utf-8 24.2103ms

@@ -1,0 +1,10 @@
+2021-09-30 17:25:17.433 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Person/cb281d2e-5299-4089-b886-f3bb68a01dd4 - -
+2021-09-30 17:25:17.438 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:25:17.438 -05:00 [INF] Executing endpoint 'Api.Controllers.PersonController.Get (Api)'
+2021-09-30 17:25:17.441 -05:00 [INF] Route matched with {action = "Get", controller = "Person"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller Api.Controllers.PersonController (Api).
+2021-09-30 17:25:17.442 -05:00 [INF] creating controller PersonController
+2021-09-30 17:25:17.567 -05:00 [INF] Entity Framework Core 5.0.10 initialized 'PersistenceContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=Testing 
+2021-09-30 17:25:17.708 -05:00 [INF] Executing OkObjectResult, writing value of type 'Application.Person.Queries.PersonDto'.
+2021-09-30 17:25:17.711 -05:00 [INF] Executed action Api.Controllers.PersonController.Get (Api) in 269.7492ms
+2021-09-30 17:25:17.711 -05:00 [INF] Executed endpoint 'Api.Controllers.PersonController.Get (Api)'
+2021-09-30 17:25:17.712 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Person/cb281d2e-5299-4089-b886-f3bb68a01dd4 - - - 200 - application/json;+charset=utf-8 278.4588ms

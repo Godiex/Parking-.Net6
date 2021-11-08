@@ -1,0 +1,3 @@
+2021-09-30 17:14:36.083 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Person/55b62919-53eb-4116-8021-e31693b5c607 - -
+2021-09-30 17:14:36.120 -05:00 [WRN] Failed to determine the https port for redirect.
+2021-09-30 17:14:36.125 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Person/55b62919-53eb-4116-8021-e31693b5c607 - - - 404 - - 44.0544ms

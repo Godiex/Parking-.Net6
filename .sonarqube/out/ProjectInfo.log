@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain\Domain.csproj
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Application\Application.csproj
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Infrastructure\Infrastructure.csproj
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Api\Api.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Domain.Tests\Domain.Tests.csproj
+C:\Users\diego.villa\Downloads\Proyectos\ADN\Back\Api.Tests\Api.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
